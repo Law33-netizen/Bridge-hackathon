@@ -1,5 +1,8 @@
 # Bridge - AI Paperwork Assistant
 
+<img width="2048" height="2048" alt="Gemini_Generated_Image_dmexyodmexyodmex" src="https://github.com/user-attachments/assets/e02423ce-a111-4475-8c3c-ec1310c6e508" />
+
+
 Bridge is an AI-powered accessibility tool designed to help immigrant families navigate complex bureaucracy. It uses Google Gemini 2.5 Flash to transform dense, official documents (PDFs/Images) into clear, translated, and interactive web pages.
 1. Core Architecture
 
